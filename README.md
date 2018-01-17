@@ -18,7 +18,7 @@
 ## About
 
 
-A simple project I decided to create to help fuel <a href="https://github.com/Wonder-Toast/pokebot">PokeBot</a> and also for users to use and enjoy!
+A simple project I decided to create to help fuel <a href="https://github.com/Wonder-Toast/pokebot">PokeBot</a> and also for users to use and enjoy! >v1.2.5
 
 
 This Module Contains Pokemon from Generation 1-7.
